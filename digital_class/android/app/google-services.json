@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022636922779",
+    "project_id": "digitalclass-52dc8",
+    "storage_bucket": "digitalclass-52dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022636922779:android:312d7fba6b00e43ed2f33e",
+        "android_client_info": {
+          "package_name": "com.example.digital_class"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0aZVCqrZAETmAKTEFBPwyJ4qnelptlLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
